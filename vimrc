@@ -838,6 +838,9 @@ nmap <C-@>d :cs find d <C-R>=expand("<cword>")<CR><CR>
    au FileType html set ft=xml
    au FileType html set syntax=html
 
+   " TXT
+   """""""""""""""""""""""""""""""
+   au BufEnter *.txt setlocal ft=txt
 
    """"""""""""""""""""""""""""""
    " C/C++
