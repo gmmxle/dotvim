@@ -31,3 +31,6 @@
 [submodule "bundle/visualMarks"]
 	path = bundle/visualMarks
 	url = https://github.com/vim-scripts/visualMarks.vim.git
+[submodule "bundle/TxtBrowser"]
+	path = bundle/TxtBrowser
+	url = https://github.com/vim-scripts/TxtBrowser.git
