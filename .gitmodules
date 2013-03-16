@@ -13,3 +13,6 @@
 [submodule "bundle/ChnDoc"]
 	path = bundle/ChnDoc
 	url = https://github.com/asins/vimcdoc.git
+[submodule "bundle/WinManager"]
+	path = bundle/WinManager
+	url = https://github.com/vim-scripts/winmanager.git
